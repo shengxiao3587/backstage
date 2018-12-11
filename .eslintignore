@@ -1,0 +1,6 @@
+*/node_modules/**/*
+webpack.*
+test/**
+eslint-import-resolver.js
+cli.js
+panels/entries.js
