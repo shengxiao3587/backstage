@@ -2,7 +2,6 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import { BrowserRouter, Route } from 'react-router-dom';
 import CoreLayout from './coreLayout';
-import Manage from './Manage';
 
 const route = (
   <BrowserRouter>
